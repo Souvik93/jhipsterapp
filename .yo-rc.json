@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.auth"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "auth",
+    "packageName": "com.auth",
+    "packageFolder": "com/auth",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2U2NjUwZTFhODIzZDE1YTk5ZTViYmQ0ZmE0NTFmNWZlYTljYzI5Y2RlNTVmY2RlMzZjMmNiMzQ3M2ZmZTMzZjNmNWFiZmY0YjFlMjZmZGJlN2M5NzE2YThiZjA4MGU3MTZkNGEzOGMwY2Q2OWQzN2JlMWIzZDgwMzJjZDBlYWM=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
